@@ -1,0 +1,150 @@
+* {
+  font-family: "Zen Kaku Gothic New", sans-serif;
+}
+
+body {
+  font-family: "Zen Kaku Gothic New", sans-serif;
+  position: relative;
+}
+
+#navbar {
+  position: fixed;
+}
+
+#main-doc {
+  position: relative;
+  margin: 0 auto;
+  text-size-adjust: auto;
+}
+
+.table-cell {
+  width: 260px;
+  height: 60px;
+  margin: 0;
+  padding-left: 15px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.table-cell-title {
+  width: 220px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 15px;
+  font-size: 25px;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: -10px;
+  margin-top: -9px;
+  position: block;
+}
+
+.box {
+  max-width: 1200px;
+  min-width: 500px;
+}
+
+#Introduction {
+  position: relative;
+  margin-left: 300px;
+  top: 0;
+}
+
+#should-know {
+  position: relative;
+  margin-left: 300px;
+  top: 44%;
+}
+
+#JSandJava {
+  position: relative;
+  margin-left: 300px;
+  top: 70%;
+}
+
+#Hello-world {
+  position: relative;
+  margin-left: 300px;
+  top: 115%;
+}
+
+.one {
+  background-color: #edebeb;
+  height: 35px;
+  border-radius: 5px;
+  padding: 15px 0 35px 15px;
+  font-family: "Courier Prime", monospace;
+  font-size: 13px;
+  margin-left: 50px;
+}
+
+#variables {
+  position: absolute;
+  margin-left: 300px;
+  top: 100%;
+}
+
+#declaring {
+  position: absolute;
+  margin-left: 300px;
+  top: 125.5%;
+}
+
+.two {
+  background-color: #edebeb;
+  height: 10px;
+  border-radius: 5px;
+  padding: 15px 0 25px 15px;
+  font-family: "Courier Prime", monospace;
+  font-size: 13px;
+  margin-left: 50px;
+}
+
+#scope {
+  position: absolute;
+  margin-left: 300px;
+  top: 177%;
+}
+
+.three {
+  background-color: #edebeb;
+  height: 10px;
+  border-radius: 5px;
+  padding: 15px 0 25px 15px;
+  font-family: "Courier Prime", monospace;
+  font-size: 13px;
+  margin-left: 50px;
+}
+
+p {
+  margin-left: 50px;
+}
+
+#global {
+  position: absolute;
+  margin-left: 300px;
+  top: 215.5%;
+}
+
+#Constants {
+  position: absolute;
+  margin-left: 300px;
+  top: 235.5%;
+}
+
+#data-types {
+  position: absolute;
+  margin-left: 300px;
+  top: 285.5%;
+}
+
+li {
+  margin-left: 50px;
+}
